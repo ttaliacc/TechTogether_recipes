@@ -1,5 +1,5 @@
 # TechTogether_recipes
-A hackathon project
+A hackathon project for TechTogether where users can find recipes based on the ingredients they have
 
 #### Database
 
